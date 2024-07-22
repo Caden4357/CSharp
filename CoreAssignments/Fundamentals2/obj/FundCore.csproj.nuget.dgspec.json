@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wilco\\OneDrive\\Documents\\CodingDojo\\Instructor\\Instruction\\Upskilling\\CSharp\\CoreAssignments\\FundCore\\FundCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wilco\\OneDrive\\Documents\\CodingDojo\\Instructor\\Instruction\\Upskilling\\CSharp\\CoreAssignments\\FundCore\\FundCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wilco\\OneDrive\\Documents\\CodingDojo\\Instructor\\Instruction\\Upskilling\\CSharp\\CoreAssignments\\FundCore\\FundCore.csproj",
+        "projectName": "FundCore",
+        "projectPath": "C:\\Users\\wilco\\OneDrive\\Documents\\CodingDojo\\Instructor\\Instruction\\Upskilling\\CSharp\\CoreAssignments\\FundCore\\FundCore.csproj",
+        "packagesPath": "C:\\Users\\wilco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wilco\\OneDrive\\Documents\\CodingDojo\\Instructor\\Instruction\\Upskilling\\CSharp\\CoreAssignments\\FundCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wilco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.424\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
