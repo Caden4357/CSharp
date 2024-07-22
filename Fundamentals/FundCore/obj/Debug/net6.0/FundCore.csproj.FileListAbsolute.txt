@@ -1,0 +1,15 @@
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\bin\Debug\net6.0\FundCore.exe
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\bin\Debug\net6.0\FundCore.deps.json
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\bin\Debug\net6.0\FundCore.runtimeconfig.json
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\bin\Debug\net6.0\FundCore.dll
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\bin\Debug\net6.0\FundCore.pdb
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.csproj.AssemblyReference.cache
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.AssemblyInfoInputs.cache
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.AssemblyInfo.cs
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.csproj.CoreCompileInputs.cache
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.dll
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\refint\FundCore.dll
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.pdb
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\FundCore.genruntimeconfig.cache
+C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\Upskilling\CSharp\Fundamentals\FundCore\obj\Debug\net6.0\ref\FundCore.dll
