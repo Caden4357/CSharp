@@ -164,6 +164,16 @@ Console.WriteLine(greeting);
 Console.WriteLine(greeting2);
 
 
+// Type Casting 
 
+// Implicit Casting
+int num = 123123;
+double bigNum = num;
+Console.WriteLine(bigNum); // 123123
 
-
+// Explicit Casting
+double myDouble = 1234.7;
+int myInt;
+// Cast double to int
+myInt = (int)myDouble; // Just like Java, this will truncate the decimal
+Console.WriteLine(myInt); // 1234
